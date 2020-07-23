@@ -19,3 +19,5 @@
 17. git push
 18. git pull
 19. git stash
+
+[reference]: https://dzone.com/articles/top-20-git-commands-with-examples
