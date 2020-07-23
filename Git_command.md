@@ -20,4 +20,4 @@
 18. git pull
 19. git stash
 
-[reference]: https://dzone.com/articles/top-20-git-commands-with-examples
+[Reference](https://dzone.com/articles/top-20-git-commands-with-examples)
